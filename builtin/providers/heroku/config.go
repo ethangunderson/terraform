@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/cyberdelia/heroku-go/v3"
+	"heroku-go/v3"
 )
 
 type Config struct {
